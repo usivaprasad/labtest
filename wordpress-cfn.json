@@ -138,7 +138,7 @@
                         "IpProtocol": "tcp",
                         "FromPort": "22",
                         "ToPort": "22",
-                        "CidrIp": ""
+                        "CidrIp": "10.0.0.0/32"
                     }
                 ]
             }
