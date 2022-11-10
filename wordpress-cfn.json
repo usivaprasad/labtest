@@ -132,13 +132,13 @@
                         "IpProtocol": "tcp",
                         "FromPort": "80",
                         "ToPort": "80",
-                        "CidrIp": "216.87.100.224"
+                        "CidrIp": "216.87.100.224/32"
                     },
                     {
                         "IpProtocol": "tcp",
                         "FromPort": "22",
                         "ToPort": "22",
-                        "CidrIp": "216.87.100.224"
+                        "CidrIp": ""
                     }
                 ]
             }
